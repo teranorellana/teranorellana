@@ -1,7 +1,7 @@
 # Fredy Teran 👋
 ---
 ## Sobre mí:
-Docente de informática, actualmente atendiendo la especialidad de desarrollo de software en educación media, me encanta esta especialidad sobre todo el aprendizaje constante.
+# Docente de informática, actualmente atendiendo la especialidad de desarrollo de software en educación media, me encanta esta especialidad sobre todo el aprendizaje constante.
 ---
 ## Tecnologías: conocimientos básicos sobre HTML, CSS, JavaScript, PHP, PYTHON, Bases de Datos y otros.
 ---
